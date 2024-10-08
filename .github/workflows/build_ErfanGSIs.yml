@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V13.0.5.0.SJCCNXM/miui_LANCELOT_V13.0.5.0.SJCCNXM_9a2b91926f_12.0.zip
-  ROM_NAME: MIUI
+  ROM_NAME: Generic Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
